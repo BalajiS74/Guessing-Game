@@ -1,1 +1,1 @@
-[live project]{https://balajis74.github.io/Guessing-Game/}
+[live]{https://balajis74.github.io/Guessing-Game/}
